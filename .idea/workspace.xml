@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9735f795-75bf-407c-9a47-464bb8096ee6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="88" />
+          <entry key="html" value="93" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="88" />
+          <entry key="HTML" value="93" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="753" column="16" lean-forward="true" selection-start-line="753" selection-start-column="16" selection-end-line="753" selection-end-column="16" />
+            <state relative-caret-position="-1410">
+              <caret line="801" lean-forward="true" selection-start-line="801" selection-end-line="801" />
               <folding>
                 <element signature="e#25750#25755#0" expanded="true" />
                 <element signature="e#37488#37494#0" expanded="true" />
@@ -161,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579547740842</updated>
-      <workItem from="1579547742186" duration="2047000" />
+      <workItem from="1579547742186" duration="2708000" />
     </task>
     <task id="LOCAL-00001" summary="added address and GMap location">
       <created>1580247899598</created>
@@ -181,20 +182,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2047000" />
+    <option name="totallyTimeSpent" value="2708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14626391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" weight="0.3291815" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33096084" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -224,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="753" column="16" lean-forward="true" selection-start-line="753" selection-start-column="16" selection-end-line="753" selection-end-column="16" />
+        <state relative-caret-position="-1410">
+          <caret line="801" lean-forward="true" selection-start-line="801" selection-end-line="801" />
           <folding>
             <element signature="e#25750#25755#0" expanded="true" />
             <element signature="e#37488#37494#0" expanded="true" />
