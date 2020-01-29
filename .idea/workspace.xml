@@ -36,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="93" />
+          <entry key="html" value="489" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="93" />
+          <entry key="HTML" value="489" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1410">
-              <caret line="801" lean-forward="true" selection-start-line="801" selection-end-line="801" />
+            <state relative-caret-position="422">
+              <caret line="862" lean-forward="true" selection-start-line="862" selection-end-line="862" />
               <folding>
                 <element signature="e#25750#25755#0" expanded="true" />
                 <element signature="e#37488#37494#0" expanded="true" />
@@ -162,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579547740842</updated>
-      <workItem from="1579547742186" duration="2708000" />
+      <workItem from="1579547742186" duration="7607000" />
     </task>
     <task id="LOCAL-00001" summary="added address and GMap location">
       <created>1580247899598</created>
@@ -178,14 +178,22 @@
       <option name="project" value="LOCAL" />
       <updated>1580248196023</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added address and GMap location">
+      <created>1580249249747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580249249747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2708000" />
+    <option name="totallyTimeSpent" value="7607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
@@ -193,7 +201,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14626391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" weight="0.33096084" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1410">
-          <caret line="801" lean-forward="true" selection-start-line="801" selection-end-line="801" />
+        <state relative-caret-position="422">
+          <caret line="862" lean-forward="true" selection-start-line="862" selection-end-line="862" />
           <folding>
             <element signature="e#25750#25755#0" expanded="true" />
             <element signature="e#37488#37494#0" expanded="true" />
